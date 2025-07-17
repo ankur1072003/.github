@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/assets/my%20pic.jpg" width="180" height="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/profile.jpg" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 
