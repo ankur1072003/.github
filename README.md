@@ -2,13 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=200&section=header&text=Hi%20I'm%20Ankur%20Kumar%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/profile.jpg" width="180" height="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/my%20pic.jpg" width="250" height="300" style="border-radius: 50%; object-fit: cover; border: 4px solid #7928CA;" />
 </p>
-
-
-
 
 <h2 align="center">🚀 Software Developer | Full Stack Enthusiast | AI/ML Developer</h2>
 
@@ -45,7 +41,7 @@
 
 ---
 
-## 💼 Projects (with Descriptions)
+## 💼 Projects 
 
 ### 🍴 Restaurant Food Delivery Website  
 **Tech Stack:** HTML, CSS, JavaScript  
