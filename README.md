@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/assets/ankur.jpg" width="180" height="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/ankur1072003/ankur1072003/main/assets/my%20pic.jpg" width="180" height="180" style="border-radius: 50%;" />
 </p>
+
 
 
 <h2 align="center">🚀 Software Developer | Full Stack Enthusiast | AI/ML Developer</h2>
