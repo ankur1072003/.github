@@ -18,7 +18,6 @@
 
 - 🎓 B.Tech CSE @ **Galgotias University (2021–2025)**
 - 💻 Currently working on **AI, Full Stack, and Cloud Applications**
-- 🌐 Portfolio: [My Personal Portfolio](https://ankur1072003.github.io/My-personal-Portfolio-/)
 - 📧 Email: [ankurkumar102003@gmail.com](mailto:ankurkumar102003@gmail.com)
 - 🧠 Learning: Django, Advanced DBMS, AWS Deployment
 - 🚀 Goal: Build scalable AI-powered full stack systems
