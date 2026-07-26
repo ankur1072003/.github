@@ -1,141 +1,109 @@
-<!-- 🎯 Banner Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=200&section=header&text=Hi%20I'm%20Ankur%20Kumar%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/my%20pic.jpg" width="250" height="300" style="border-radius: 50%; object-fit: cover; border: 4px solid #7928CA;" />
-</p>
+<div align="center">
 
-<h2 align="center">🚀 Software Developer | Full Stack Enthusiast | AI/ML Developer</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur1072003/.github/main/banner.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur1072003/.github/main/banner-light.svg?v=1" />
+  <img alt="Ankur Kumar — Full Stack & AI Automation Engineer" src="https://raw.githubusercontent.com/ankur1072003/.github/main/banner.svg?v=1" width="100%" />
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Frontend+%26+Backend+Developer;Machine+Learning+%26+AI+Projects;Building+Cool+Web+Stuff+With+Python+%26+JS" />
-</p>
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/ankur1072003/.github/main/lanyard.svg?v=1" width="220" alt="Ankur Kumar ID badge" />
 
-## 📌 About Me
+</div>
 
-- 🎓 B.Tech CSE @ **Galgotias University (2021–2025)**
-- 💻 Currently working on **AI, Full Stack, and Cloud Applications**
-- 📧 Email: [ankurkumar102003@gmail.com](mailto:ankurkumar102003@gmail.com)
-- 🧠 Learning: Django, Advanced DBMS, AWS Deployment
-- 🚀 Goal: Build scalable AI-powered full stack systems
+<br/>
 
----
+### About Me
 
-## 🧠 Skills
+- 🚀 Full Stack & AI Automation Engineer, currently building the **Zlatan Platform** — a multilingual sports content engine live for **FIFA World Cup 2026**
+- 🌐 Orchestrating **n8n + GPT-4o + HeyGen + Creatomate** to ship **275+ automated posters & videos/day** across **25 language markets**
+- 🛠️ Full-stack foundation in **React / Next.js / Node.js / Python / Java**, with hands-on depth in LLM pipelines, workflow orchestration and CMS/cloud architecture
+- 📫 Reach me at **ankurkumar102003@gmail.com** or on [LinkedIn](https://linkedin.com/in/ankur-kumar-828591250)
+- 🟢 Open to full-time & freelance opportunities
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<br/>
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### ⚙️ Tools & Technologies
-`Flask` `React` `MongoDB` `MySQL` `Git` `Power BI` `Figma`  
-`VS Code` `Jupyter Notebook` `AWS` `Scikit-learn` `NLP` `Pandas`
+</div>
 
----
+<br/>
 
-## 💼 Projects 
+### Currently Building — Zlatan Platform
 
-### 🍴 Restaurant Food Delivery Website  
-**Tech Stack:** HTML, CSS, JavaScript  
-A fully responsive food ordering website that allows users to browse food items, add them to a cart, and view the total. Inspired by platforms like Swiggy/Zomato.  
-✅ *Key Features:*  
-- Dynamic food menu cards with animations  
-- Add/remove items from cart  
-- Checkout interface  
-- Mobile and desktop responsive design  
-🔗 [View Code](https://github.com/ankur1072003)
+An n8n-orchestrated content automation system producing daily sports content for **25 brand websites**, entirely solo-engineered:
 
----
+- **11 poster types × 25 languages** rendered daily via GPT-4o copywriting → FLUX 1.1 Pro imagery → Creatomate templating
+- A parallel **HeyGen + Seedance 2.0** video pipeline with multilingual publishing automated end-to-end through Blotato
+- A GitHub MDX + AWS Amplify CMS layer powering the sites on a shared Next.js 15 / TypeScript stack
+- Hardened infra on EasyPanel — queue-mode scaling across multiple EC2 workers, credential rotation, RBAC
 
-### 🧠 AI ChatBot for Mental Health Support  
-**Tech Stack:** Python, Flask, NLP  
-An AI-powered chatbot offering mental health support via text interaction. It uses NLP to understand the user’s mood and provide emotional guidance or redirection.  
-✅ *Key Features:*  
-- Live AI chat  
-- Sentiment analysis  
-- Anonymous, secure support  
-🔗 [View Project](https://github.com/ankur1072003/Ai-chat-bot-Mental-health-support)
+<br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/stats.svg?v=1" width="32%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/langs.svg?v=1" width="32%" alt="Core stack" />
+  <img src="https://raw.githubusercontent.com/ankur1072003/.github/main/trophies.svg?v=1" width="32%" alt="Milestones" />
+</div>
 
-### 🧪 Diabetes Prediction Using ML  
-**Tech Stack:** Pandas, Scikit-learn, Logistic Regression, SVM  
-A machine learning model that predicts whether a person is diabetic based on clinical data. Compares multiple algorithms for accuracy.  
-✅ *Key Features:*  
-- Dataset cleaning & EDA  
-- Model training (Logistic Regression & SVM)  
-- Accuracy visualization  
-🔗 [View Project](https://github.com/ankur1072003/Diabetic-Prediction-Using-ML)
+<br/>
 
----
+### Key Projects
 
-### 🌦️ Weather Forecasting App  
-**Tech Stack:** HTML, CSS, JavaScript  
-A weather app that fetches live weather conditions by city name using a public weather API. Displays temperature, humidity, and sky conditions.  
-✅ *Key Features:*  
-- Real-time weather updates  
-- City-based input  
-- Simple, clean UI  
-🔗 [View Project](https://github.com/ankur1072003/Weather-Forecasting-App)
+| Project | Stack | Highlights |
+|---|---|---|
+| **Multi-Tenant AI SaaS Platform** | Next.js 15 · FastAPI · Celery · Clerk · OpenRouter | Unified AI layer serving 200+ models with fallback chains & per-company usage tracking |
+| **3-Portal Marketplace Platform** | React · Vite · Express · Prisma · Socket.IO · Stripe | Client / Engineer / Admin RBAC portals with real-time chat & payments, built solo |
+| **Intelligent Workflow Automation Suite** | n8n · Zapier · OpenAI API · Node.js | AI email triage + cross-tool automations, cutting response time from hours to minutes |
+| **AI Agent Orchestration Platform** | Python · LangGraph · LangChain · FastAPI | Multi-agent MCP system with a LangGraph state machine & live status dashboard |
+| **RAG-Powered Knowledge Base** | Python · LangChain · Pinecone · Next.js | Semantic-chunked document Q&A with multi-turn conversational memory |
+| **PitchPulse Content Engine** | n8n · YouTube API · Vizard | Zero-manual football short-form video pipeline with dedup tracking |
 
----
+<br/>
 
-### 🎙️ Voice Recognition System  
-**Tech Stack:** Python, AIML, Flask  
-A voice command system that converts voice to text, analyzes it with AIML (Artificial Intelligence Markup Language), and gives text-based responses.  
-✅ *Key Features:*  
-- Voice to text processing  
-- AIML-based logic flow  
-- Flask-based app hosting  
-🔗 [View Project](https://github.com/ankur1072003)
+### Experience
 
----
+```text
+2025 — Present   Full Stack & AI Automation Engineer · 1Touch Ventures (Bengaluru, Hybrid)
+2025 (Mar–Aug)   Full Stack Developer · Zepto (Remote)
+2024 — 2025      Full Stack Developer & AI Engineer · Webcraft Technology (Remote)
+```
 
-### 💬 Customer Sentiment Analysis  
-**Tech Stack:** Python, Hugging Face Transformers, NLP  
-Uses transformer models to classify customer reviews into positive, neutral, or negative. Trained on real-world datasets.  
-✅ *Key Features:*  
-- Hugging Face integration  
-- NLP pipeline  
-- Graph-based visualization of results  
-🔗 [View Project](https://github.com/ankur1072003)
+<br/>
 
----
+<div align="center">
 
-## 🏆 Achievements
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurkumar102003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-kumar-828591250)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankur1072003)
 
-- 🏅 AIR **2476** in NCAT (out of 7,00,000+ candidates)  
-- 💼 Co-founder – **LocalConnect AI (South Africa)**  
-- 👨‍💼 Organized national tech events with 30%+ growth
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur1072003/.github/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur1072003/.github/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ankur1072003/.github/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-## 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankur1072003&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankur1072003&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur1072003&layout=compact&theme=tokyonight" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ankur1072003&color=22D3EE&style=flat-square&label=Profile+Views)
 
----
+**Automate. Ship. Repeat.**
 
-## 📬 Let's Connect
-
-📧 **Email:** [ankurkumar102003@gmail.com](mailto:ankurkumar102003@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-kumar-828591250)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ankurkumarsingh8)  
-[![GitHub](https://img.shields.io/github/followers/ankur1072003?label=Follow&style=social)](https://github.com/ankur1072003)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" />
-</p>
+</div>

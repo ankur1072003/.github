@@ -1,0 +1,42 @@
+<svg viewBox="0 0 410 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ankur Kumar core stack">
+  <defs>
+    <linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050912"/><stop offset="1" stop-color="#0D1830"/>
+    </linearGradient>
+    <clipPath id="louter"><rect width="410" height="250" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#louter)">
+    <rect width="410" height="250" fill="url(#lbg)"/>
+    <rect width="410" height="250" fill="none" stroke="#22D3EE" stroke-opacity="0.25"/>
+    <text x="20" y="30" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#EAF2FF">Core Stack</text>
+    <text x="390" y="30" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#8C9BC2">daily-use</text>
+    <g transform="translate(20,44)">
+      
+  <text x="0" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EAF2FF">JavaScript / TypeScript</text>
+  <rect x="190" y="33" width="195" height="10" rx="5" fill="#8C9BC2" fill-opacity="0.18"/>
+  <rect class="bar" style="animation-delay:0.00s" x="190" y="33" width="0" height="10" rx="5" fill="#22D3EE">
+    <animate attributeName="width" from="0" to="179.4" dur="0.9s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </rect>
+  <text x="0" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EAF2FF">Python</text>
+  <rect x="190" y="69" width="195" height="10" rx="5" fill="#8C9BC2" fill-opacity="0.18"/>
+  <rect class="bar" style="animation-delay:0.12s" x="190" y="69" width="0" height="10" rx="5" fill="#A855F7">
+    <animate attributeName="width" from="0" to="152.1" dur="0.9s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </rect>
+  <text x="0" y="116" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EAF2FF">n8n / Workflow Automation</text>
+  <rect x="190" y="105" width="195" height="10" rx="5" fill="#8C9BC2" fill-opacity="0.18"/>
+  <rect class="bar" style="animation-delay:0.24s" x="190" y="105" width="0" height="10" rx="5" fill="#FF3D81">
+    <animate attributeName="width" from="0" to="171.6" dur="0.9s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </rect>
+  <text x="0" y="152" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EAF2FF">Java</text>
+  <rect x="190" y="141" width="195" height="10" rx="5" fill="#8C9BC2" fill-opacity="0.18"/>
+  <rect class="bar" style="animation-delay:0.36s" x="190" y="141" width="0" height="10" rx="5" fill="#3DFFB0">
+    <animate attributeName="width" from="0" to="107.2" dur="0.9s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </rect>
+  <text x="0" y="188" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EAF2FF">SQL</text>
+  <rect x="190" y="177" width="195" height="10" rx="5" fill="#8C9BC2" fill-opacity="0.18"/>
+  <rect class="bar" style="animation-delay:0.48s" x="190" y="177" width="0" height="10" rx="5" fill="#F5B942">
+    <animate attributeName="width" from="0" to="120.9" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </rect>
+    </g>
+  </g>
+</svg>
